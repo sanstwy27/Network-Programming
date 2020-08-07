@@ -1,0 +1,7 @@
+ls | number !1
+cat > ls.txt
+removetag 511 512 513 !3
+ls | number | number |1
+number | number | ptt > ls.txt
+cat - test.html
+exit
